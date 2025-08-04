@@ -87,7 +87,7 @@ We used 3 methods for φ/ψ angle optimization:
 
 All structures were visualized in PyMOL. Overlay shows best compaction and folding for **MC + MinMover** optimized peptide.
 
-![Structure Comparison](images/structure_comparison.png)
+![Structure Comparison](images/structural-com.png)
 
 ---
 
